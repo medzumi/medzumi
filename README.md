@@ -3,6 +3,18 @@ Languages and Instruments:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23000000.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
+
+Frameworks:
+
+![UniRx](https://img.shields.io/badge/UniRx-%23000000.svg?style=for-the-badge&logo=ReactiveX&logoColor=DF188D)
+![Zenject](https://img.shields.io/badge/zenject-%23000000.svg?style=for-the-badge&logo=nuget&logoColor=green)
+![ecslite](https://img.shields.io/badge/ecslite-%23000000.svg?style=for-the-badge&logo=nuget&logoColor=white)
+
+Technolies:
+
+![ECS](https://img.shields.io/badge/ecs-%23000000.svg?style=for-the-badge&logoColor=green)
+
 
 Social:
 
