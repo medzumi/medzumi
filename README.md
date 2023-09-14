@@ -30,9 +30,7 @@ Work History:
 
 Feature Plan:
 
-1. MVP CCG 
 1. Self ecs Framework
 2. Adapt network engines for ecs framework
 3. Editor for ecs framework
-4. Present layer for ecs framework
-5. Rewrite CCG with ECS
+4. Adapt MVVM for ecs framework
