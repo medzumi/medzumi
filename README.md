@@ -27,10 +27,5 @@ Work History:
 
 1. Digital Ecosystems
 2. NotFoundGames
+3. Alawar
 
-Feature Plan:
-
-1. Self ecs Framework
-2. Adapt network engines for ecs framework
-3. Editor for ecs framework
-4. Adapt MVVM for ecs framework
